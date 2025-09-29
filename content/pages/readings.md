@@ -20,7 +20,7 @@ READINGS/VIDEOS
 {{< tdclose >}}{{< tdopen >}}
 Introduction: Personal and Collective Experiences in Modern China
 {{< tdclose >}}{{< tdopen >}}
-Video: {{% resource_link "2ad66bb2-279f-4d6f-bb69-2b40804d6c33" "*The King of Masks*" %}} 
+Video: [*The King of Masks*](http://www.imdb.com/title/tt0115669/) 
 
 (1996).
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
