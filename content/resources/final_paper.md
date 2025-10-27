@@ -4,8 +4,6 @@ description: Student paper
 file: /courses/21h-560-smashing-the-iron-rice-bowl-chinese-east-asia-fall-2004/cd82f73800aee77f80cd4cdb0266700d_final_paper.pdf
 file_size: 114983
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

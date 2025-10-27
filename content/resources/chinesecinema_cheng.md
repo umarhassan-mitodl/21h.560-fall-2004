@@ -4,8 +4,6 @@ description: ''
 file: /courses/21h-560-smashing-the-iron-rice-bowl-chinese-east-asia-fall-2004/b9ad95ac83eee47c934334bc566315f0_ChineseCinema_Cheng.pdf
 file_size: 108700
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
